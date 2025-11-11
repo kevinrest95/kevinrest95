@@ -30,10 +30,11 @@ Currently pursuing an **AI certification** to integrate **machine learning** and
 ## 📂 Featured Projects
 | **Project** | **Description** | **Link** |
 |-------------|-----------------|----------|
-| **Tableau CO2 Dashboard** | Visualized global CO2 emissions per capita with interactive filters. | [View Dashboard](https://public.tableau.com/views/Aa_17628796668360/Dashboard1 |
-| **Breast Cancer Detection** | Python-based data visualization and ML model for early detection. | https://colab.research.google.com/drive/1cqTcHroxyILZzTsqIZWRD0hEltld2R3x?usp=sharing |
-| **Image Annotation Tool** | Automated image labeling using Python for AI datasets. | [Open Notebook](https://colab.research.google.com/drive/1bRLhjNIMt3SaO5a6?usp=sharing |
-| **Customer Satisfaction AI** *(In Progress)* | Predictive analytics for customer feedback trends. | [Open Notebook](https://colab.research.google.com/drive/1d1yzuMHVqYdWNz2GBzYtZydAK5vIQPz| **App Features Repo** | Intro to Python project with feature implementations. | [View Repo](https://github.com/AlejandraPerrython-noble-vikings.git |
+| **Tableau CO2 Dashboard** | Visualized global CO2 emissions per capita with interactive filters. | [View Dashboard](https://public.tableau.com/views/Aa_17628796668360/Dashboard1) |
+| **Breast Cancer Detection** | Python-based data visualization and ML model for early detection. | [Open Notebook](https://colab.research.google.com/drive/1cqTcHroxyILZzTsqIZWRD0hEltld2R3x?usp=sharing) |
+| **Image Annotation Tool** | Automated image labeling using Python for AI datasets. | [Open Notebook](https://colab.research.google.com/drive/1bRLhjNIMt3SaO5a6?usp=sharing) |
+| **Customer Satisfaction AI** *(In Progress)* | Predictive analytics for customer feedback trends. | [Open Notebook](https://colab.research.google.com/drive/1d1yzuMHVqYdWNz2GBzYtZydAK5vIQPz)
+| **App Features Repo** | Intro to Python project with feature implementations. | [View Repo](https://github.com/AlejandraPerrython-noble-vikings.git) |
 
 ---
 
