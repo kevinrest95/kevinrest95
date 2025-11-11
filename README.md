@@ -46,5 +46,5 @@ Currently pursuing an **AI certification** to integrate **machine learning** and
 ---
 
 ⭐ *Explore my repositories and reach out for collaboration on data and AI projects!*  
-📌 **GitHub:** [Your GitHub Profile Link Here]  
-📌 **LinkedIn:** [Your LinkedIn Profile Link Here]  
+📌 [**GitHub**](https://github.com/kevinrest95) 
+📌 [**LinkedIn**](linkedin.com/in/kevin-restrepomia)  
