@@ -6,15 +6,6 @@ Currently pursuing an **AI certification** to integrate **machine learning** and
 
 ---
 
-
-# 👋 Hi, I'm Kevin Restrepo
-
-## 📌 About Me
-I’m a **Database & Reports Analyst** with expertise in **data management, reporting automation, and analytics**. Skilled in **SQL**, **Python**, and **data visualization tools** like **Power BI** and **Tableau**, I have hands-on experience in **ETL processes**, **data modeling**, and **workflow optimization**.  
-Currently pursuing an **AI certification** to integrate **machine learning** and **predictive analytics** into enterprise data solutions.
-
----
-
 ## 🛠 Tech Stack
 - **Programming:** Python, SQL  
 - **Data Visualization:** Power BI, Tableau  
