@@ -8,10 +8,10 @@ Currently pursuing an **AI certification** to integrate **machine learning** and
 
 ## 🛠 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-bpython&logoColor=white
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logol&logoColor=white
-  <img src="https://img.shields.io/badge/C811?style=for-the-badge&logo=powerbi&logoColor=black
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&au&logoColor=white
+  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+  <img src="https://img.shields.io/badge/SQL-336for-the-badge&logo=postgresql&logoColor=white
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-theo=powerbi&logoColor=black
+  <img src="https://img.shields.io/badge/Tableau-E976or-the-badge&logo=tableau&logoColor=white
 </p>
 
 ---
